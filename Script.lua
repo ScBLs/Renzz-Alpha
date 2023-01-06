@@ -1,10 +1,10 @@
-print('Yes Sam Kak MakMak ')
+print('Welcome To Renzz Alpha! ')
 local placeId = game.PlaceId
 if placeId == 2753915549 or placeId == 4442272183 or placeId == 7449423635 then
     BF = true
 spawn(function()
 	while wait() do 
-		print("JayKung#8973 ")
+		print("Thanks For using my sc")
 	end
 end)
 if BF then
@@ -300,7 +300,7 @@ if BF then
 		ShowName.TextSize = 20.000
 		ShowName.TextXAlignment = Enum.TextXAlignment.Left
 	
-		NameHub.Name = "NameHub"
+		NameHub.Name = "Renzz Alpha"
 		NameHub.Parent = TopMain
 		NameHub.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 		NameHub.BackgroundTransparency = 1.000
